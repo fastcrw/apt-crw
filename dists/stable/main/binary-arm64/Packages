@@ -1,45 +1,45 @@
 Package: crw
-Version: 0.36.0
+Version: 0.37.0
 Architecture: arm64
 Maintainer: CRW <crw@fastcrw.com>
-Installed-Size: 26352
-Filename: pool/crw_0.36.0_arm64.deb
-Size: 9192892
-MD5sum: 92e039484d6dbce56500dce8f8531597
-SHA1: 08544bd8c67f5c9be7238dbe0faa854c7398d908
-SHA256: 5e04ef6c50388d20959f5bd5703d819fd201c5b3b5196e91e9fe6d3f4244e9b3
+Installed-Size: 26420
+Filename: pool/crw_0.37.0_arm64.deb
+Size: 9227354
+MD5sum: 7f830c3e9d7232e5782b7d23bad1d39e
+SHA1: cd6c4d595b8bae14b48b3e3c17fe78a5a578fe04
+SHA256: e6c81de27f591d63558e5d3576acc23bca120b1ae6487119400c9005515b6885
 Section: web
 Priority: optional
-Homepage: https://github.com/us/crw
+Homepage: https://github.com/fastcrw/crw
 Description: Fast web scraper CLI for AI agents. Markdown output, zero config.
 
 Package: crw-mcp
-Version: 0.36.0
+Version: 0.37.0
 Architecture: arm64
 Maintainer: CRW <crw@fastcrw.com>
-Installed-Size: 19820
-Filename: pool/crw-mcp_0.36.0_arm64.deb
-Size: 7160720
-MD5sum: 24a41e583864f70cbdbccdfa93f02ac8
-SHA1: 565e07a188b8a0b67601ddb0918ba2db6c367eec
-SHA256: 4a53f6100c2f5f753a5cc89a222fbb046e837454ed70eaaa2375f4ea405e54ff
+Installed-Size: 19832
+Filename: pool/crw-mcp_0.37.0_arm64.deb
+Size: 7164752
+MD5sum: 7efa29f53125361df883ea5d4929a097
+SHA1: 4936aa9ccbd109b84e9e1bd490485e2556b15ee5
+SHA256: 94fd5c76590e94d9634ea05aa71e17546fa6ec4c9565f54a16aef74d240f9b1b
 Section: web
 Priority: optional
-Homepage: https://github.com/us/crw
+Homepage: https://github.com/fastcrw/crw
 Description: MCP server for web scraping — works with Claude, Cursor, etc.
 
 Package: crw-server
-Version: 0.36.0
+Version: 0.37.0
 Architecture: arm64
 Maintainer: CRW <crw@fastcrw.com>
-Installed-Size: 21672
-Filename: pool/crw-server_0.36.0_arm64.deb
-Size: 7823236
-MD5sum: 3f1d218fb805c2c11f0312bdf28e6867
-SHA1: 06bef50b7c3b6e0b89456321c3d3c31451c36261
-SHA256: ff62d5bd08719ea2ee97dea911ae36b54b891eaf8484895a42f191b79397c4db
+Installed-Size: 21716
+Filename: pool/crw-server_0.37.0_arm64.deb
+Size: 7847228
+MD5sum: 0c1ba225469bf446e960d3db1c5a8701
+SHA1: d05445d1b29e9e0d2d4ee225fcbc49a4cf1fb459
+SHA256: 200f63e49c44f58b92f7bc37af0c4748668e1f7f6fe300f90a45bb23140ddfd6
 Section: web
 Priority: optional
-Homepage: https://github.com/us/crw
+Homepage: https://github.com/fastcrw/crw
 Description: Firecrawl-compatible web scraper API server.
 
