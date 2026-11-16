@@ -1,43 +1,43 @@
 Package: crw
-Version: 0.45.0
+Version: 0.45.1
 Architecture: amd64
 Maintainer: CRW <crw@fastcrw.com>
-Installed-Size: 34396
-Filename: pool/crw_0.45.0_amd64.deb
-Size: 10880208
-MD5sum: 3f5469bc7568673c699e291db41dc37f
-SHA1: 55135b8bd4b6898e5bf1ec8576e0d79892fe897e
-SHA256: 3947bc626ef0ce858cdc196e037de39630726478f5a3e4386405f762fdbfdf16
+Installed-Size: 34480
+Filename: pool/crw_0.45.1_amd64.deb
+Size: 10927114
+MD5sum: 8dc55d63439069ba8079a740865afcfe
+SHA1: 30fc84cbbd89e9b59a295516fc8ea90f597ece5b
+SHA256: a00ea9f8bc9fbba3c54f8981172283132242972a58f691574e33a8463f03e417
 Section: web
 Priority: optional
 Homepage: https://github.com/fastcrw/crw
 Description: Fast web scraper CLI for AI agents. Markdown output, zero config.
 
 Package: crw-mcp
-Version: 0.45.0
+Version: 0.45.1
 Architecture: amd64
 Maintainer: CRW <crw@fastcrw.com>
-Installed-Size: 26728
-Filename: pool/crw-mcp_0.45.0_amd64.deb
-Size: 8546722
-MD5sum: a1e328c2f39ba57a39d3ab091c8855fe
-SHA1: 5961044d0bebeb20ddb9a54a2aa4605e22e6e05b
-SHA256: b4020fcb97e622f3e308446a013ea71351aaea193447b143752aaca1fa36e729
+Installed-Size: 26792
+Filename: pool/crw-mcp_0.45.1_amd64.deb
+Size: 8565744
+MD5sum: 6d05b3e7dbc64d76067bcb1249b6babc
+SHA1: 68ef1d4ca4fca6b5923441c503b11fb38ac5359b
+SHA256: 0af4905f52c5ef8a0fe602b88f5d8dc513b9e0893692518ce2948b81d20f88a6
 Section: web
 Priority: optional
 Homepage: https://github.com/fastcrw/crw
 Description: MCP server for web scraping — works with Claude, Cursor, etc.
 
 Package: crw-server
-Version: 0.45.0
+Version: 0.45.1
 Architecture: amd64
 Maintainer: CRW <crw@fastcrw.com>
-Installed-Size: 28164
-Filename: pool/crw-server_0.45.0_amd64.deb
-Size: 9036824
-MD5sum: 71eab805ae7ccfa504c117f1d92565a7
-SHA1: 021276c7e0dac831ae6a1a7ae29299e56d9ff3f1
-SHA256: ce59267cc68b113483c681e580ed19d71c597a904aeb68a5adf7f1c3301e792c
+Installed-Size: 28236
+Filename: pool/crw-server_0.45.1_amd64.deb
+Size: 9044952
+MD5sum: 07fce16e19cd69f0bd7035ee971b49fc
+SHA1: 49231ba9b687e37a750d96152f23a397526c30a6
+SHA256: 252112e1fb5ceb61bb554c809f0654a6fc84f809155db88151cda47e17e1d515
 Section: web
 Priority: optional
 Homepage: https://github.com/fastcrw/crw
