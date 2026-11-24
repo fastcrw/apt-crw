@@ -8,25 +8,25 @@ Codename: stable
 Architectures: amd64 arm64
 Components: main
 Description: CRW - Web scraper built for AI agents
-Date: Mon, 23 Nov 2026 03:19:45 +0000
+Date: Tue, 24 Nov 2026 01:39:36 +0000
 SHA256:
- 467761d7190d7773382afb8e29d4422abc16e63b1595206f681f58de1988ee9b     1407 main/binary-amd64/Packages
- deee86c077a2d585b8875c42acfeeca7c107a82bc8c502b0a8f5856330ede088     1406 main/binary-arm64/Packages
- 0b9f48b97f3ffd5e718d2c742cb135f468db001d2e2e954529db7f0ec12abd42      679 main/binary-amd64/Packages.gz
- 08f60942a38ff7e5f83d05ce3e7badb96d06525d2b498387fb0152f384d2f173      683 main/binary-arm64/Packages.gz
+ 7e121da3c12441f146334ff90ec81a7bdf98fa029a851ed40a533631863d1f28     1407 main/binary-amd64/Packages
+ 7c640162f336845c7c5ce75dc1457258ede590af86884f27d759b9a0a6ae8b60     1407 main/binary-arm64/Packages
+ cfc2cd2f7a8570b6048b2d674c2c33fe580cb65a16f80f57fb0b09399da6f92f      681 main/binary-amd64/Packages.gz
+ 43d70509a85d020b58c6ba997abcd8667bf102ec6ed9c7b169ebccff94eedb67      682 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEMPG2F/LEdGDO66zdnEx1XZjB26sFAmsDsNIACgkQnEx1XZjB
-26ucdBAAtrc7H/7/evrsgNT3VomvXmsjuFUfXMAUqy+TcB63bfytzcUDFrWYhonW
-fRZBwSj0v4Y4qe9PVMjPhZCL1HDPeBvOVwe6P9IBJo2gfSHmlFoZsLF6m3Gfkjpd
-R3ruz/7OYjyybHHn6oGuzPizEpqKy5bjoETeIBHHNcw14Tnl2w5PqB53KIvFv6bX
-WBcs0ZO0bQ52OpsGQchoaGBywKT6LATMDK2C52zhQgtPtd9RrrFKFJnOt+9YpRDQ
-ITQFnglFTwlHSF0U6jMzn/byOnN2Q2xjOvisYvv1sJo/O4CBAeOqog0g0ajvseHe
-Nq1WQzEGOYmeXTeAPNNEaBMuV3b4Fo0SrcIhhNddT+CGSfblR8BWn86wYgzT2AJJ
-xtW9MuBcQ9LCLuLCOhAZikPl0ICRiHTa92sRmaNkew1gLHybBoejQCdqBJzsyFw6
-mFprwARIkkbiKx/IvkYCmRwyZ9hes7CdR2VoZXP3DazFI7m6rHGFzTZrF9gtz09J
-YyItQJrbfX3UAdQa3XM/+yMNZDeudEyzPS08Y1R0nTwqThgl5zp07o4OPj0f2sa3
-pw8e8RWM3uf4p6Eevv7bYM3txmUzorqxCIO5mKqBr8Q4O9okwU1QgR9EFcKmnwVX
-asd7VtQroN5pQ0PiLXq/uEege/wxj57JnPE2xYF1L+AmGylrH18=
-=rA9o
+iQIzBAEBCgAdFiEEMPG2F/LEdGDO66zdnEx1XZjB26sFAmsE6tgACgkQnEx1XZjB
+26sMVRAAhMdE3ILP3Yd+mqZfiJI/leLa+Au3VICbWpqnznCLmFIudFENo3uHqnUn
+cUm/xUoe84qswkZ22B4XbQoebGjC1PVXNptAlPSUA+oI0D99dQLunXvJyZxMOLt/
+WoySKebBKMbd/mezTjZqpB7w1Rs29VgAnx2za1fkt1cBkDxnt0nCXP2h7fOPZlK9
+jtokKgp686/F2kmFveFbEdHzoAV8q1lm5W4GRFszXeDBVetznXrjmr9CUQOYvFUP
+6ZF5nGRMISlcxdOipxwueF02P+ykFpv6Zn56b7dZmSW/PV5F6KNhkIJCkiCjsKKt
+3tOByweZKasA3Il9PiNzd3BxQVr8ZSw2a7bgkMZoSjxzrZ5EUtBGoNLlk9DkFmJR
+UDfPtB0z9c789XWA97PrXClncjZj36gWthk9MgrKR1EEebbPLxfDwJPNPIOSCm5D
+Zvxzu8Oy0KEX8wGxBI9xvUnqBQHhkNsAAlyhbO/Bo6etW0Uzl5+NNLhaUriPHMeu
+qbC9HRo37Qj5f0bznKDqlkg7ziFQlMbTe0zGcgDb4k/qjbLGFdxkw8eChQaSs5Wx
+aZ4Rhh/7leB8ODrU0swRZr4oqxWvV+mTAjglULaRYhssndGLBF6klVTOSHSyM6fP
+bBrJwMbG7OT9ICXq12hVLWucKPdVOibbR186SW8BWGxe5VPPh54=
+=15ni
 -----END PGP SIGNATURE-----
